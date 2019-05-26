@@ -1,5 +1,5 @@
 {
-  "name": "npm-module-test",
+  "name": "npm-module-testik",
   "version": "0.1.0",
   "main": "server.js",
   "description": "My project",
@@ -16,9 +16,6 @@
     "start": "node server",
     "pub": "npm version patch && npm publish && git push"
   },
-  "keywords": [
-    "npm-module-test"
-  ],
   "bugs": {
     "url": "https://github.com/dmitriz/npm-module-test/issues"
   },
